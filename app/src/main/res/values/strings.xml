@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasPAPB2</string>
+    <string name="result">Hasil</string>
+    <string name="calculate">Hitung!</string>
+    <string name="height">Tinggi</string>
+    <string name="width">Lebar</string>
+    <string name="length">Panjang</string>
+    <string name="judul">Volume</string>
+</resources>

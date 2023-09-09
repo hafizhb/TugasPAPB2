@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TugasPAPB2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/birupastel</item>
+        <item name="colorPrimaryVariant">@color/birulangitcerah</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/birucerah</item>
+        <item name="colorSecondaryVariant">@color/birumenonjol</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+</resources>
